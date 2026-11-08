@@ -1,0 +1,34 @@
+{
+  "project_id": "PsyTwin-SDE",
+  "title": "Psychometric filtering and neuroaxonal biomarker profiling guide equitable brain-aging trajectory modeling",
+  "target_journal": "npj Digital Medicine",
+  "repository_url": "https://github.com/SJT503/PsyTwin-SDE",
+  "deterministic_seed": 20270507,
+  "raw_data_access_policy": "Read-only extraction from official CDC/NCHS NHANES and Peking University CHARLS releases; zero individual-level participant records redistributed.",
+  "cohorts": {
+    "NHANES_2011_2014": {
+      "env_var": "NHANES_RAW_DIR",
+      "official_source": "https://wwwn.cdc.gov/nchs/nhanes/",
+      "cycles": [
+        "2011-2012",
+        "2013-2014"
+      ],
+      "verified_counts": "sNfL (SSSNFL_H, 2013-2014): N = 2,071 adults; Zero-ceiling 3-domain neurocognitive battery (CFQ_G + CFQ_H: CERAD word learning, Animal Fluency, DSST processing speed): N = 3,014 older adults + 24h 7-day wrist triaxial actigraphy (PAX) + PHQ-9 depression (DPQ_G/H)",
+      "role": "Cross-scale neuroaxonal injury (sNfL) biological mediation & 24h circadian actigraphy manifold (fPCA-TPDC) cohort"
+    },
+    "CHARLS_2011_2020_Waves1_to_5": {
+      "env_var": "CHARLS_RAW_DIR",
+      "official_source": "https://charls.pku.edu.cn/",
+      "waves": [
+        2011,
+        2013,
+        2015,
+        2018,
+        2020
+      ],
+      "paired_blood_id_harmonization": "Wave 1 11-char ID -> 12-char Wave 3-5 ID via id[:9] + '0' + id[9:] (exact N = 7,648 longitudinal paired blood participants)",
+      "verified_counts": "Harmonized N = 25,586 (+ Wave 5 2020 N = 19,367); >=2 waves episodic memory (tr20) N = 19,626 (>=3 waves N = 13,647); >=2 waves CES-D10 N = 24,825 (>=4 waves N = 21,263); Venous blood union N = 17,619, with exact 2-wave longitudinal paired blood overlap (2011 & 2015, using standard 11->12 char ID harmonization) N = 7,648",
+      "role": "9-year 5-wave psychometric-physics-aware coupled cognitive-affective SDE digital twin & longitudinal G-computation counterfactual intervention cohort"
+    }
+  }
+}

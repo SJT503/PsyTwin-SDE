@@ -1,0 +1,7 @@
+scale,domain,nu_intercept,lambda_loading,gamma_retest_log1p_k,sigma_obs_base,delta_illiteracy_heteroscedasticity,illiterate_sd_multiplier
+imrc,Cognitive_Reserve,4.02603,2.0,0.05205,0.89473,0.17496,1.0914
+dlrc,Cognitive_Reserve,2.97703,2.70634,0.04177,1.07356,0.49274,1.2794
+ser7,Cognitive_Reserve,3.91364,0.76201,0.05371,1.37558,-0.03285,0.9837
+orient,Cognitive_Reserve,3.32647,0.52752,0.0273,0.96774,0.07709,1.0393
+draw,Cognitive_Reserve,0.58937,0.51912,0.01971,0.43,0.0,1.0
+cesd10,Affective_Load,7.6879,6.0,-0.06509,4.01583,0.36429,1.1998

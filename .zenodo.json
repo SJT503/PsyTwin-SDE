@@ -1,0 +1,57 @@
+{
+  "title": "PsyTwin-SDE (v1.0.0): Psychometric filtering and neuroaxonal biomarker profiling guide equitable brain-aging trajectory modeling",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "license": "MIT",
+  "publication_date": "2026-10-31",
+  "description": "Open-source Python implementation and verification suite for PsyTwin-SDE, a psychometric-physics-aware continuous-time coupled stochastic differential equation digital twin integrating US NHANES 24-hour wrist actigraphy, serum neurofilament light chain (sNfL), and zero-ceiling neurocognition with nine-year five-wave CHARLS trajectories across two independent national cohorts (NHANES N = 8,148; CHARLS N = 20,928).",
+  "creators": [
+    {
+      "name": "Sheng, Jiangtao",
+      "affiliation": "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China",
+      "orcid": "0000-0003-2438-7345"
+    },
+    {
+      "name": "Liu, Xueer",
+      "affiliation": "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+    },
+    {
+      "name": "Lin, Runmin",
+      "affiliation": "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+    },
+    {
+      "name": "Sun, Qiaochu",
+      "affiliation": "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+    },
+    {
+      "name": "Chen, Xiaoxuan",
+      "affiliation": "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+    },
+    {
+      "name": "Li, Kangsheng",
+      "affiliation": "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+    },
+    {
+      "name": "Chen, Weiqiang",
+      "affiliation": "Department of Neurosurgery, First Affiliated Hospital of Shantou University Medical College, 57 Changping Road, Shantou 515041, Guangdong, China",
+      "orcid": "0000-0002-2612-0890"
+    }
+  ],
+  "keywords": [
+    "digital twin",
+    "brain aging",
+    "circadian rhythm",
+    "neurofilament light chain",
+    "psychometric measurement fidelity",
+    "stochastic differential equations",
+    "causal mediation",
+    "algorithmic fairness"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/SJT503/PsyTwin-SDE",
+      "relation": "isSupplementTo"
+    }
+  ]
+}

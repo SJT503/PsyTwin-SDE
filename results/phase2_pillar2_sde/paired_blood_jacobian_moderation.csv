@@ -1,0 +1,19 @@
+n_paired_blood_sde,pathway,moderator,estimate_SD_per_yr,cluster_se,ci95_lo,ci95_hi,p_value,fdr_q
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),Intercept_at_Mean,-0.09065,0.01211,-0.11439,-0.06691,7.1848e-14,1.293264e-12
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),Intercept_at_Mean,-0.03015,0.01292,-0.05548,-0.00483,0.019624,0.176616
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),log_hsCRP_2011_z,0.0041,0.01649,-0.02821,0.03642,0.80349,0.90392625
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),log_hsCRP_2011_z,-0.00907,0.01868,-0.04568,0.02754,0.62736,0.8347242857142857
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),delta_log_hsCRP_4yr_z,-0.02032,0.02019,-0.05989,0.01926,0.31429,0.8347242857142857
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),delta_log_hsCRP_4yr_z,-2e-05,0.0192,-0.03765,0.0376,0.99897,0.99897
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),HbA1c_2011_z,-0.00259,0.01425,-0.03051,0.02533,0.85559,0.9059188235294118
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),HbA1c_2011_z,0.00443,0.01416,-0.02332,0.03218,0.75446,0.90392625
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),delta_HbA1c_4yr_z,-0.0188,0.01441,-0.04703,0.00944,0.19189,0.8347242857142857
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),delta_HbA1c_4yr_z,0.00924,0.01613,-0.02237,0.04085,0.56669,0.8347242857142857
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),tchol_to_hdl_2011_z,-0.00934,0.01109,-0.03108,0.0124,0.39954,0.8347242857142857
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),tchol_to_hdl_2011_z,-0.00633,0.01392,-0.0336,0.02095,0.64923,0.8347242857142857
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),cystatinC_clearance_2011_z,-0.0123,0.01731,-0.04623,0.02164,0.47752,0.8347242857142857
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),cystatinC_clearance_2011_z,0.01048,0.01512,-0.01916,0.04011,0.48845,0.8347242857142857
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),baseline_age_z,-0.01788,0.01556,-0.04839,0.01262,0.25055,0.8347242857142857
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),baseline_age_z,0.02714,0.01388,-6e-05,0.05434,0.05049,0.30294000000000004
+7438,J_cog_from_dep (Affective -> Cognitive Erosion),illiterate_z,0.01052,0.01481,-0.0185,0.03954,0.4773,0.8347242857142857
+7438,J_dep_from_cog (Cognitive Reserve -> Affective Buffering),illiterate_z,0.00885,0.01617,-0.02286,0.04055,0.58445,0.8347242857142857

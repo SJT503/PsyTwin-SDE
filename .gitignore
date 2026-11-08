@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+data_raw/
+data_processed/*.parquet
+data_processed/*.pkl
+figures/*.png
+figures/*.pdf
+figures/*.svg

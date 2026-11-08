@@ -1,0 +1,47 @@
+{
+  "n_primary_simulation": 10000,
+  "n_mc_replicates": 20,
+  "n_per_mc_replicate": 2000,
+  "seed": 20270507,
+  "elapsed_seconds": 4209.04,
+  "simulated_censoring_rates": {
+    "imrc": {
+      "floor_pct": 2.76,
+      "ceiling_pct": 6.81
+    },
+    "dlrc": {
+      "floor_pct": 13.21,
+      "ceiling_pct": 4.63
+    },
+    "ser7": {
+      "floor_pct": 6.36,
+      "ceiling_pct": 41.06
+    },
+    "orient": {
+      "floor_pct": 4.14,
+      "ceiling_pct": 55.11
+    },
+    "draw": {
+      "floor_pct": 41.38,
+      "ceiling_pct": 58.62
+    },
+    "cesd10": {
+      "floor_pct": 16.25,
+      "ceiling_pct": 0.12
+    }
+  },
+  "ground_truth": {
+    "kappa_cog": 0.14,
+    "kappa_dep": 0.22,
+    "J_cog_from_dep": -0.095,
+    "J_dep_from_cog": -0.075,
+    "B_cog_age10": -0.055,
+    "B_dep_female": 0.045,
+    "gamma_imrc": 0.26,
+    "gamma_dlrc": 0.31,
+    "gamma_ser7": 0.18,
+    "gamma_orient": 0.14,
+    "delta_het_imrc": 0.42,
+    "delta_het_dlrc": 0.45
+  }
+}

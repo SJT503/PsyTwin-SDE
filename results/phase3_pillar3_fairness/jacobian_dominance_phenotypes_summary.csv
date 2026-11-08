@@ -1,0 +1,4 @@
+cohort,classification_scheme,phenotype,n_participants,pct_cohort,mean_J_cog_from_dep,mean_J_dep_from_cog,mean_dominance_D,baseline_age_mean,female_pct,illiterate_pct,rural_pct,optimal_sleep_pct,dual_sensory_impairment_pct,mean_delta_eta_cog_9yr,mean_delta_eta_dep_9yr,followup_elevated_dep_pct,followup_cog_impairment_pct
+CHARLS_Full_SDE_N20928,PreSpecified_Threshold_0p15,1_Affective_Driven_Cognitive_Decline,11547,55.17,-0.08732,-0.00785,0.5009,61.82,54.53,41.49,66.97,59.29,9.07,-0.1922,-0.0229,42.05,48.53
+CHARLS_Full_SDE_N20928,PreSpecified_Threshold_0p15,2_Cognitive_Driven_Affective_Collapse,3809,18.2,-0.04525,-0.08127,-0.2663,44.94,49.49,0.11,29.4,72.67,1.94,0.2573,-0.0822,28.83,11.76
+CHARLS_Full_SDE_N20928,PreSpecified_Threshold_0p15,3_Bidirectional_Coupled_Equilibrium,5572,26.62,-0.06009,-0.06518,-0.0198,50.4,49.3,0.14,62.47,69.99,4.06,0.0779,-0.0578,34.17,19.35

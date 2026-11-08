@@ -1,0 +1,4 @@
+cohort,bio_coupling_phenotype,n_participants,pct_subcohort,mean_J_cog_from_dep_bio,mean_J_dep_from_cog_bio,mean_dominance_D_bio,hsCRP_2011_median_mgL,hsCRP_2015_median_mgL,delta_log_hsCRP_mean,HbA1c_2011_mean_pct,HbA1c_2015_mean_pct,delta_HbA1c_4yr_mean_pct,cystatinC_2011_mean_mgL,mean_delta_eta_cog_9yr,mean_delta_eta_dep_9yr,followup_elevated_dep_pct,followup_cog_impairment_pct
+CHARLS_PairedBlood_N7438,1_Affective_Driven_Cognitive_Decline,5583,75.06,-0.10394,-0.01683,0.585,0.9,1.5,0.4647,5.262,6.116,0.8524,1.039,-0.1715,-0.0142,42.11,44.44
+CHARLS_PairedBlood_N7438,2_Cognitive_Driven_Affective_Collapse,697,9.37,-0.02867,-0.0775,-0.4196,2.4,1.0,-1.0113,5.41,5.702,0.2893,0.838,0.0356,0.0411,41.61,27.55
+CHARLS_PairedBlood_N7438,3_Bidirectional_Coupled_Equilibrium,1158,15.57,-0.0639,-0.06586,0.0189,1.14,1.3,0.0469,5.152,5.72,0.5677,0.877,0.0319,0.0069,37.91,22.97

@@ -1,0 +1,150 @@
+{
+  "cohort": "CHARLS_2011_2020_5Wave_Plus_PairedBlood",
+  "steps": [
+    {
+      "step_id": "01_total_5wave_union_2011_2020",
+      "description": "Total unique CHARLS participants across Waves 1\u20135 (2011\u20132020 union)",
+      "n_participants": 25873
+    },
+    {
+      "step_id": "01a_harmonized_w1_w4_total",
+      "description": "  Harmonized CHARLS Waves 1\u20134 cohort (H_CHARLS_D_Data.dta)",
+      "n_participants": 25586
+    },
+    {
+      "step_id": "01b_wave5_2020_total",
+      "description": "  Wave 5 (2020) respondents (Health_Status_and_Functioning.dta)",
+      "n_participants": 19395
+    },
+    {
+      "step_id": "01c_wave5_overlap_with_w1_w4",
+      "description": "  Wave 5 respondents linked longitudinally to Waves 1\u20134",
+      "n_participants": 19108
+    },
+    {
+      "step_id": "01d_wave5_new_entrants",
+      "description": "  New Wave 5 entrants not in Waves 1\u20134",
+      "n_participants": 287
+    },
+    {
+      "step_id": "02_total_person_waves_w1_w5",
+      "description": "Total longitudinal person-wave interviews across Waves 1\u20135",
+      "n_participants": 96628
+    },
+    {
+      "step_id": "02a_wave1_2011_n",
+      "description": "  Wave 1 (2011) active respondents",
+      "n_participants": 17708
+    },
+    {
+      "step_id": "02b_wave2_2013_n",
+      "description": "  Wave 2 (2013) active respondents",
+      "n_participants": 18612
+    },
+    {
+      "step_id": "02c_wave3_2015_n",
+      "description": "  Wave 3 (2015) active respondents",
+      "n_participants": 21097
+    },
+    {
+      "step_id": "02d_wave4_2018_n",
+      "description": "  Wave 4 (2018) active respondents",
+      "n_participants": 19816
+    },
+    {
+      "step_id": "02e_wave5_2020_n",
+      "description": "  Wave 5 (2020) active respondents",
+      "n_participants": 19395
+    },
+    {
+      "step_id": "03_participants_ge2_waves_interviewed_w1_w5",
+      "description": "Participants interviewed in >= 2 waves across Waves 1\u20135",
+      "n_participants": 23474
+    },
+    {
+      "step_id": "03a_participants_ge3_waves_interviewed_w1_w5",
+      "description": "  Participants interviewed in >= 3 waves across Waves 1\u20135",
+      "n_participants": 20727
+    },
+    {
+      "step_id": "03b_participants_ge4_waves_interviewed_w1_w5",
+      "description": "  Participants interviewed in >= 4 waves across Waves 1\u20135",
+      "n_participants": 15627
+    },
+    {
+      "step_id": "03c_participants_all5_waves_interviewed",
+      "description": "  Participants interviewed in all 5 waves (2011\u20132020)",
+      "n_participants": 10927
+    },
+    {
+      "step_id": "04_w1_w4_tr20_ge2_manifest_check",
+      "description": "Episodic memory (tr20) >= 2 waves in Harmonized W1\u2013W4 alone (manifest check)",
+      "n_participants": 19626
+    },
+    {
+      "step_id": "04a_w1_w4_tr20_ge3_manifest_check",
+      "description": "  Episodic memory (tr20) >= 3 waves in Harmonized W1\u2013W4 alone (manifest check)",
+      "n_participants": 13647
+    },
+    {
+      "step_id": "05_w1_w5_tr20_ge2_full_panel",
+      "description": "Episodic memory (tr20) >= 2 waves across Full 9-Year W1\u2013W5 Panel",
+      "n_participants": 20945
+    },
+    {
+      "step_id": "05a_w1_w5_tr20_ge3_full_panel",
+      "description": "  Episodic memory (tr20) >= 3 waves across Full 9-Year W1\u2013W5 Panel",
+      "n_participants": 17375
+    },
+    {
+      "step_id": "05b_w1_w5_tr20_ge4_full_panel",
+      "description": "  Episodic memory (tr20) >= 4 waves across Full 9-Year W1\u2013W5 Panel",
+      "n_participants": 11767
+    },
+    {
+      "step_id": "06_w1_w5_cesd10_ge2_full_panel",
+      "description": "Depressive score (CES-D10) >= 2 waves across Full 9-Year W1\u2013W5 Panel (W1\u2013W4 alone = 20,767)",
+      "n_participants": 21849
+    },
+    {
+      "step_id": "06a_w1_w5_cesd10_ge3_full_panel",
+      "description": "  Depressive score (CES-D10) >= 3 waves across Full 9-Year W1\u2013W5 Panel",
+      "n_participants": 18838
+    },
+    {
+      "step_id": "06b_w1_w5_cesd10_ge4_full_panel",
+      "description": "  Depressive score (CES-D10) >= 4 waves across Full 9-Year W1\u2013W5 Panel",
+      "n_participants": 13662
+    },
+    {
+      "step_id": "07_primary_sde_cohort_coupled_ge2_waves",
+      "description": "Primary Pillar 2 Coupled SDE Cohort: >= 2 waves with BOTH tr20 & CES-D10 observed (W1\u2013W5)",
+      "n_participants": 20928
+    },
+    {
+      "step_id": "07a_primary_sde_cohort_age_ge45",
+      "description": "  Coupled SDE Cohort aged >= 45 years at baseline (>= 2 coupled waves)",
+      "n_participants": 19212
+    },
+    {
+      "step_id": "07b_coupled_sde_ge3_waves",
+      "description": "  Coupled SDE Cohort with >= 3 waves of joint (tr20, CES-D10)",
+      "n_participants": 17360
+    },
+    {
+      "step_id": "08_venous_blood_union_2011_2015",
+      "description": "Venous blood biomarker union (2011 Wave 1 N=11,847 U 2015 Wave 3 N=13,420)",
+      "n_participants": 17619
+    },
+    {
+      "step_id": "08a_venous_blood_paired_2011_2015",
+      "description": "  Exact 2-wave longitudinal paired venous blood cohort (2011 & 2015, 11->12-char ID harmonized)",
+      "n_participants": 7648
+    },
+    {
+      "step_id": "08b_paired_blood_and_coupled_sde_ge2",
+      "description": "  Paired 2011 & 2015 venous blood + >= 2 coupled cognitive-depressive waves (W1\u2013W5)",
+      "n_participants": 7438
+    }
+  ]
+}

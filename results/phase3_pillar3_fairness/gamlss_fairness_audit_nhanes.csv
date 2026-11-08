@@ -1,0 +1,13 @@
+cohort,endpoint,gamlss_parameter,term,estimate,robust_se,ci95_lo,ci95_hi,p_value,exp_multiplier
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,mu_location,Intercept,0.51829,0.03102,0.45749,0.5791,1.1709e-62,
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,mu_location,LowEducation_lt_HighSchool,-0.77579,0.03378,-0.842,-0.70958,1.0329e-116,
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,mu_location,LowIncome_PIR_lt_1p85,-0.37936,0.0371,-0.45207,-0.30664,1.5317e-24,
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,mu_location,Female_vs_Male,0.25532,0.0256,0.20515,0.3055,1.9943e-23,
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,mu_location,RacialEthnicMinority_vs_NHWhite,-0.56697,0.03602,-0.63757,-0.49637,8.012e-56,
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,mu_location,Age_Std,-0.3605,0.01521,-0.39031,-0.3307,3.2215e-124,
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,log_sigma_scale,Intercept,-0.3284,0.02391,-0.37527,-0.28152,6.5423e-43,0.7201
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,log_sigma_scale,LowEducation_lt_HighSchool,-0.03512,0.02961,-0.09317,0.02292,0.23561,0.9655
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,log_sigma_scale,LowIncome_PIR_lt_1p85,0.00348,0.02893,-0.05322,0.06017,0.90437,1.0035
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,log_sigma_scale,Female_vs_Male,0.09921,0.02718,0.04595,0.15248,0.0002616,1.1043
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,log_sigma_scale,RacialEthnicMinority_vs_NHWhite,0.02189,0.02511,-0.02732,0.07109,0.38335,1.0221
+NHANES_2011_2014_Older60_N3014,ZeroCeiling_DSST_Standardized_Distribution,log_sigma_scale,Age_Std,-0.01333,0.01505,-0.04283,0.01618,0.37594,0.9868

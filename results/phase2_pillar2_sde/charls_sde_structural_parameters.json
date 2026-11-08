@@ -1,0 +1,118 @@
+{
+  "n_cohort": 20928,
+  "kappa_cog": 0.87879,
+  "kappa_dep": 0.37242,
+  "J_cog_from_dep_mean": -0.07241,
+  "J_dep_from_cog_mean": -0.03647,
+  "sd_eta_cog_w1": 0.51283,
+  "sd_eta_dep_w1": 0.53389,
+  "modifiable_driver_B_cog": {
+    "age_10yr_drift": -0.15289,
+    "optimal_sleep_6_to_85h": 0.03569,
+    "poor_vision": -0.04983,
+    "poor_hearing": -0.07499,
+    "social_active": 0.08675,
+    "internet_use": 0.16079,
+    "phys_active_modvig": 0.06276,
+    "cardiometabolic_burden": 0.03002
+  },
+  "modifiable_driver_B_dep": {
+    "age_10yr_drift": -0.03532,
+    "optimal_sleep_6_to_85h": -0.14978,
+    "poor_vision": 0.13227,
+    "poor_hearing": 0.1051,
+    "social_active": -0.03256,
+    "internet_use": -0.01746,
+    "phys_active_modvig": 0.01034,
+    "cardiometabolic_burden": 0.08319
+  },
+  "x0_center": [
+    -0.229573,
+    0.979497,
+    0.522219,
+    0.229501,
+    0.454654,
+    0.589354,
+    0.095088,
+    -0.0
+  ],
+  "u_center": [
+    0.093892,
+    0.607935,
+    0.262156,
+    0.105882,
+    0.498218,
+    0.139725,
+    0.612912,
+    0.388379
+  ],
+  "phenotype_counts": {
+    "1_Affective_Driven_Cognitive_Decline": 11547,
+    "3_Bidirectional_Coupled_Equilibrium": 5572,
+    "2_Cognitive_Driven_Affective_Collapse": 3809
+  },
+  "n_cohort_age_ge_45": 19223,
+  "n_spouses_under_45": 1705,
+  "kappa_cog_se": 0.00319,
+  "kappa_cog_ci95": [
+    0.87254,
+    0.88504
+  ],
+  "kappa_dep_se": 0.00154,
+  "kappa_dep_ci95": [
+    0.3694,
+    0.37544
+  ],
+  "J_cog_from_dep_se": 0.00684,
+  "J_cog_from_dep_ci95": [
+    -0.08582,
+    -0.05901
+  ],
+  "J_cog_from_dep_p": 3.3757e-26,
+  "J_dep_from_cog_se": 0.00627,
+  "J_dep_from_cog_ci95": [
+    -0.04875,
+    -0.02419
+  ],
+  "J_dep_from_cog_p": 5.8371e-09,
+  "diff_J_cd_minus_J_dc": -0.03594,
+  "diff_J_se": 0.01215,
+  "diff_J_ci95": [
+    -0.05975,
+    -0.01213
+  ],
+  "diff_J_p": 0.0030948,
+  "impulse_coupling_ratio_Jcd_over_Jdc": 1.9854,
+  "impulse_coupling_ratio_se": 0.4933,
+  "impulse_coupling_ratio_ci95": [
+    1.0184,
+    2.9523
+  ],
+  "stationary_step_gain_cog_from_dep": 0.0824,
+  "stationary_step_gain_dep_from_cog": 0.09794,
+  "stationary_step_ratio": 0.8414,
+  "unscaled_drift_eigenvalues": [
+    -0.88396,
+    -0.36726
+  ],
+  "unscaled_drift_trace": -1.25121,
+  "unscaled_drift_determinant": 0.32464,
+  "kalman_random_slope_incremental_prognosis": {
+    "w5_cog_impairment_cv5_auroc_demographics_only": 0.7464,
+    "w5_cog_impairment_cv5_auroc_plus_coupling_phenotype": 0.7465,
+    "w5_cog_impairment_cv5_auroc_plus_w3_filtered_states_eta": 0.809,
+    "w5_cog_impairment_cv5_auroc_plus_w3_filtered_states_and_traits": 0.8138,
+    "w5_cog_impairment_auroc_baseline_cov_only": 0.7465,
+    "w5_cog_impairment_auroc_plus_filtered_state_slope": 0.8138,
+    "w5_cog_impairment_delta_auroc": 0.0673,
+    "w5_cog_impairment_lrt_p": 0.0,
+    "w5_dep_elevated_cv5_auroc_demographics_only": 0.6434,
+    "w5_dep_elevated_cv5_auroc_plus_coupling_phenotype": 0.6432,
+    "w5_dep_elevated_cv5_auroc_plus_w3_filtered_states_eta": 0.7787,
+    "w5_dep_elevated_cv5_auroc_plus_w3_filtered_states_and_traits": 0.7791,
+    "w5_dep_elevated_auroc_baseline_cov_only": 0.6432,
+    "w5_dep_elevated_auroc_plus_filtered_state_slope": 0.7791,
+    "w5_dep_elevated_delta_auroc": 0.1359,
+    "w5_dep_elevated_lrt_p": 0.0
+  }
+}

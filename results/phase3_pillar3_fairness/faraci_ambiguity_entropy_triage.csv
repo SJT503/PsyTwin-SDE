@@ -1,0 +1,9 @@
+clinical_endpoint,deferral_rate_pct,n_retained,n_deferred_ambiguous,M7_retained_AUROC,M7_retained_Brier,M7_retained_error_pct,M7_epistemic_JSD_sorted_retained_AUROC,M7_epistemic_JSD_sorted_retained_Brier,random_deferral_mean_AUROC,random_deferral_mean_Brier,p_value_vs_random_deferral_entropy,p_value_vs_random_deferral_epistemic_JSD,mean_shannon_entropy_bits_retained,mean_epistemic_JSD_bits_retained,mean_epistemic_JSD_bits_deferred,mean_intermodel_prob_SD_deferred,illiterate_share_in_deferred_pct,illiterate_share_in_JSD_deferred_pct
+Elevated_Depression_CESD10_ge10,0,20928,0,0.8011,0.1744,25.52,0.8011,0.1744,0.8011,0.1744,1.0,1.0,0.7835,0.00786,0.0,0.0,,
+Elevated_Depression_CESD10_ge10,10,18835,2093,0.8142,0.1659,23.2,0.8059,0.1714,0.8012,0.1743,1.4156e-32,8.7338e-06,0.7597,0.00606,0.02405,0.0878,29.29,26.56
+Elevated_Depression_CESD10_ge10,15,17788,3140,0.8203,0.1614,22.08,0.8071,0.1706,0.8011,0.1744,2.3411e-50,1.4281e-06,0.7462,0.00553,0.02106,0.0813,29.39,25.96
+Elevated_Depression_CESD10_ge10,20,16742,4186,0.8265,0.1564,21.0,0.808,0.1698,0.8012,0.1743,1.1453e-55,1.2027e-05,0.7316,0.00507,0.01899,0.0768,29.43,25.7
+Cognitive_Impairment_tr20_le6,0,20928,0,0.8521,0.1454,21.04,0.8521,0.1454,0.8521,0.1454,1.0,1.0,0.6089,0.01614,0.0,0.0,,
+Cognitive_Impairment_tr20_le6,10,18835,2093,0.8664,0.1337,18.1,0.8625,0.1373,0.8521,0.1455,8.9402e-61,2.9032e-33,0.5661,0.0123,0.05073,0.1289,29.24,58.29
+Cognitive_Impairment_tr20_le6,15,17788,3140,0.8731,0.1271,16.65,0.8663,0.1339,0.8522,0.1454,2.2377e-79,6.1635e-37,0.5422,0.01116,0.04438,0.119,29.2,52.52
+Cognitive_Impairment_tr20_le6,20,16742,4186,0.8795,0.1203,15.29,0.8701,0.1303,0.8521,0.1454,1.3932e-89,5.7356e-40,0.5166,0.01018,0.04,0.1114,29.22,48.38

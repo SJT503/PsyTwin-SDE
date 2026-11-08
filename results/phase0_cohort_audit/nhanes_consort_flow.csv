@@ -1,0 +1,28 @@
+step_id,description,n_participants
+01_total_enrolled_2011_2014,Total NHANES 2011–2014 enrolled participants (DEMO_G + DEMO_H),19931
+01a_cycle_2011_2012,  2011–2012 cycle (DEMO_G),9756
+01b_cycle_2013_2014,  2013–2014 cycle (DEMO_H),10175
+02_mec_examined_all_ages,Mobile Examination Center (MEC) examined (RIDSTATR == 2),19151
+03_adults_age_ge20,Adults aged >= 20 years,11329
+04_adults_mec_examined_ge20,Adults aged >= 20 years examined at MEC,10907
+05_adults_pax_device_returned,Adults >= 20 with usable wrist actigraphy file (PAXSTS == 1),9504
+06_adults_pax_valid_4d16h,Adults >= 20 meeting primary 24h circadian QC (>= 4 valid days >= 16h wear & full 24h clock coverage),8148
+06a_adults_pax_valid_3d16h_sens,  Sensitivity: Adults >= 20 with >= 3 valid days >= 16h wear,8495
+06b_adults_pax_valid_4d10h_sens,  Sensitivity: Adults >= 20 with >= 4 valid days >= 10h wear,8785
+07_adults_pax_4d16h_and_phq9,Arm A (24h Circadian -> Affective Load): Adults >= 20 with primary valid PAX + complete PHQ-9,7506
+08_snfl_total_measured_2013_2014,"Arm B (Neuroaxonal Injury Subcohort, 2013–2014 SSSNFL_H): Participants with measured serum sNfL (pg/mL)",2071
+08a_snfl_and_pax_device,  sNfL participants with PAX actigraphy recording (PAXSTS == 1),1829
+08b_snfl_and_pax_4d16h,  sNfL participants meeting primary 24h circadian PAX QC (>= 4 valid 16h days),1552
+08c_snfl_and_pax_4d10h_sens,  sNfL participants meeting >= 4 valid 10h wear days (sensitivity),1708
+08d_snfl_pax_4d16h_and_phq9,  Primary sNfL DML Mediation Analytic Sample (valid 4d16h PAX + sNfL + complete PHQ-9),1467
+09_older_adults_age_ge60,Older adults aged >= 60 years eligible for CFQ neurocognitive battery (2011–2014),3632
+09a_cfq_dsst_measured,  Older adults >= 60 with valid DSST processing speed (CFDDS),3014
+09b_cfq_animal_fluency_measured,  Older adults >= 60 with valid Animal Fluency executive score (CFDAST),3110
+09c_cfq_cerad_ir_measured,  Older adults >= 60 with complete 3-trial CERAD immediate learning (CFDCST1-3),3131
+09d_cfq_cerad_dr_measured,  Older adults >= 60 with valid CERAD delayed recall (CFDCSR),3126
+09e_cfq_complete_3domain,  Older adults >= 60 with complete 3-domain zero-ceiling cognition composite,2934
+09f_cfq_dsst_and_pax_4d16h,  Arm C (24h Circadian -> Zero-Ceiling Cognition): DSST + primary valid 4d16h PAX,2541
+09g_cfq_3domain_pax_4d16h_phq9,  Complete 3-domain cognition + primary valid 4d16h PAX + complete PHQ-9,2438
+10_triple_bridge_snfl_cfq_dsst,Arm D (2013–2014 Ages 60–75 Triple Bridge): Measured sNfL + valid DSST,506
+10a_triple_bridge_snfl_cfq_pax_4d16h,  Triple Cross-Scale Bridge: Measured sNfL + valid DSST + primary valid 4d16h PAX,419
+10b_triple_bridge_snfl_3dom_pax_phq9,  Quadruple Complete Bridge: Measured sNfL + complete 3-domain cognition + valid 4d16h PAX + PHQ-9,410

@@ -1,0 +1,5 @@
+cohort,age_range,n_participants,raw_scale_cog_dep_r,tobit_filtered_latent_cog_dep_r,deattenuation_gain_abs_r
+CHARLS_Full_Cohort_N20928,All_Eligible_Baseline,20928,-0.217,-0.4722,0.2552
+CHARLS_Older60_Subcohort,Age_ge_60,6911,-0.2011,-0.4521,0.251
+NHANES_Older60_TransferredTobit,Age_ge_60,3014,-0.1718,-0.3551,0.1833
+NHANES_Older60_NativeTobit,Age_ge_60,3014,-0.1718,-0.1888,0.017

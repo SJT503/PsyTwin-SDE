@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use PsyTwin-SDE in your research, please cite this software and the accompanying article."
+title: "PsyTwin-SDE: Psychometric filtering and neuroaxonal biomarker profiling guide equitable brain-aging trajectory modeling"
+version: "1.0.0"
+date-released: "2026-10-31"
+license: "MIT"
+repository-code: "https://github.com/SJT503/PsyTwin-SDE"
+keywords:
+  - digital twin
+  - brain aging
+  - circadian rhythm
+  - neurofilament light chain
+  - psychometric measurement fidelity
+  - stochastic differential equations
+  - causal mediation
+  - algorithmic fairness
+authors:
+  - family-names: "Sheng"
+    given-names: "Jiangtao"
+    affiliation: "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+    email: "jtsheng@stu.edu.cn"
+    orcid: "https://orcid.org/0000-0003-2438-7345"
+  - family-names: "Liu"
+    given-names: "Xueer"
+    affiliation: "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+  - family-names: "Lin"
+    given-names: "Runmin"
+    affiliation: "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+  - family-names: "Sun"
+    given-names: "Qiaochu"
+    affiliation: "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+  - family-names: "Chen"
+    given-names: "Xiaoxuan"
+    affiliation: "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+  - family-names: "Li"
+    given-names: "Kangsheng"
+    affiliation: "Department of Microbiology and Immunology, Shantou University Medical College, 22 Xinling Road, Shantou 515041, Guangdong, China"
+  - family-names: "Chen"
+    given-names: "Weiqiang"
+    affiliation: "Department of Neurosurgery, First Affiliated Hospital of Shantou University Medical College, 57 Changping Road, Shantou 515041, Guangdong, China"
+    email: "wqchen@stu.edu.cn"
+    orcid: "https://orcid.org/0000-0002-2612-0890"

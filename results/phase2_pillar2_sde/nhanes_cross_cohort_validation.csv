@@ -1,0 +1,6 @@
+cohort,scale,n_valid,empirical_floor_pct,empirical_ceiling_pct,psychometric_oof_NLL,charls_transferred_tobit_oof_NLL,naive_gaussian_oof_NLL,delta_NLL_psych_minus_naive,delta_NLL_transferred_minus_naive,paired_p_NLL,paired_p_transferred_vs_naive,psychometric_oof_CRPS,charls_transferred_tobit_oof_CRPS,naive_gaussian_oof_CRPS,latent_cog_dep_r_psych,latent_cog_dep_r_transferred,latent_cog_dep_r_naive,latent_cog_log_sNfL_r_psych
+NHANES_2011_2014_Older60_ExternalValidation,dsst,3014,0.13,0.0,4.06349,4.06606,4.06344,5e-05,0.00262,0.96105,0.13979,7.99333,8.01632,7.98949,-0.1888,-0.3551,-0.227,-0.1929
+NHANES_2011_2014_Older60_ExternalValidation,animal_fluency,2949,0.0,0.0,2.99005,3.00694,2.99406,-0.00401,0.01288,0.014108,1.8851e-15,2.69248,2.70691,2.69589,-0.1888,-0.3551,-0.227,-0.1929
+NHANES_2011_2014_Older60_ExternalValidation,cerad_ir_sum,2972,0.3,0.1,2.59332,2.58732,2.59204,0.00128,-0.00472,0.5254,0.11761,1.74422,1.73815,1.742,-0.1888,-0.3551,-0.227,-0.1929
+NHANES_2011_2014_Older60_ExternalValidation,cerad_dr,2972,2.86,4.41,1.87651,1.87501,1.87593,0.00059,-0.00091,0.76147,0.73372,0.90077,0.89856,0.90152,-0.1888,-0.3551,-0.227,-0.1929
+NHANES_2011_2014_Older60_ExternalValidation,phq9_total,2944,35.05,0.07,2.30443,2.30658,2.39336,-0.08893,-0.08678,2.4674e-19,2.8402e-19,2.03399,2.03694,2.13615,-0.1888,-0.3551,-0.227,-0.1929

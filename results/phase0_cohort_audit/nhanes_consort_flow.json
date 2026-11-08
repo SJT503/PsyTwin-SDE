@@ -1,0 +1,141 @@
+{
+  "cohort": "NHANES_2011_2014",
+  "raw_resolution_note": "PAXHR_G + PAXHR_H official CDC hourly triaxial MIMS + ambient light (lux) + wake/sleep minutes across 7\u20139 recording days (~168\u2013192 contiguous 1h epochs/person)",
+  "steps": [
+    {
+      "step_id": "01_total_enrolled_2011_2014",
+      "description": "Total NHANES 2011\u20132014 enrolled participants (DEMO_G + DEMO_H)",
+      "n_participants": 19931
+    },
+    {
+      "step_id": "01a_cycle_2011_2012",
+      "description": "  2011\u20132012 cycle (DEMO_G)",
+      "n_participants": 9756
+    },
+    {
+      "step_id": "01b_cycle_2013_2014",
+      "description": "  2013\u20132014 cycle (DEMO_H)",
+      "n_participants": 10175
+    },
+    {
+      "step_id": "02_mec_examined_all_ages",
+      "description": "Mobile Examination Center (MEC) examined (RIDSTATR == 2)",
+      "n_participants": 19151
+    },
+    {
+      "step_id": "03_adults_age_ge20",
+      "description": "Adults aged >= 20 years",
+      "n_participants": 11329
+    },
+    {
+      "step_id": "04_adults_mec_examined_ge20",
+      "description": "Adults aged >= 20 years examined at MEC",
+      "n_participants": 10907
+    },
+    {
+      "step_id": "05_adults_pax_device_returned",
+      "description": "Adults >= 20 with usable wrist actigraphy file (PAXSTS == 1)",
+      "n_participants": 9504
+    },
+    {
+      "step_id": "06_adults_pax_valid_4d16h",
+      "description": "Adults >= 20 meeting primary 24h circadian QC (>= 4 valid days >= 16h wear & full 24h clock coverage)",
+      "n_participants": 8148
+    },
+    {
+      "step_id": "06a_adults_pax_valid_3d16h_sens",
+      "description": "  Sensitivity: Adults >= 20 with >= 3 valid days >= 16h wear",
+      "n_participants": 8495
+    },
+    {
+      "step_id": "06b_adults_pax_valid_4d10h_sens",
+      "description": "  Sensitivity: Adults >= 20 with >= 4 valid days >= 10h wear",
+      "n_participants": 8785
+    },
+    {
+      "step_id": "07_adults_pax_4d16h_and_phq9",
+      "description": "Arm A (24h Circadian -> Affective Load): Adults >= 20 with primary valid PAX + complete PHQ-9",
+      "n_participants": 7506
+    },
+    {
+      "step_id": "08_snfl_total_measured_2013_2014",
+      "description": "Arm B (Neuroaxonal Injury Subcohort, 2013\u20132014 SSSNFL_H): Participants with measured serum sNfL (pg/mL)",
+      "n_participants": 2071
+    },
+    {
+      "step_id": "08a_snfl_and_pax_device",
+      "description": "  sNfL participants with PAX actigraphy recording (PAXSTS == 1)",
+      "n_participants": 1829
+    },
+    {
+      "step_id": "08b_snfl_and_pax_4d16h",
+      "description": "  sNfL participants meeting primary 24h circadian PAX QC (>= 4 valid 16h days)",
+      "n_participants": 1552
+    },
+    {
+      "step_id": "08c_snfl_and_pax_4d10h_sens",
+      "description": "  sNfL participants meeting >= 4 valid 10h wear days (sensitivity)",
+      "n_participants": 1708
+    },
+    {
+      "step_id": "08d_snfl_pax_4d16h_and_phq9",
+      "description": "  Primary sNfL DML Mediation Analytic Sample (valid 4d16h PAX + sNfL + complete PHQ-9)",
+      "n_participants": 1467
+    },
+    {
+      "step_id": "09_older_adults_age_ge60",
+      "description": "Older adults aged >= 60 years eligible for CFQ neurocognitive battery (2011\u20132014)",
+      "n_participants": 3632
+    },
+    {
+      "step_id": "09a_cfq_dsst_measured",
+      "description": "  Older adults >= 60 with valid DSST processing speed (CFDDS)",
+      "n_participants": 3014
+    },
+    {
+      "step_id": "09b_cfq_animal_fluency_measured",
+      "description": "  Older adults >= 60 with valid Animal Fluency executive score (CFDAST)",
+      "n_participants": 3110
+    },
+    {
+      "step_id": "09c_cfq_cerad_ir_measured",
+      "description": "  Older adults >= 60 with complete 3-trial CERAD immediate learning (CFDCST1-3)",
+      "n_participants": 3131
+    },
+    {
+      "step_id": "09d_cfq_cerad_dr_measured",
+      "description": "  Older adults >= 60 with valid CERAD delayed recall (CFDCSR)",
+      "n_participants": 3126
+    },
+    {
+      "step_id": "09e_cfq_complete_3domain",
+      "description": "  Older adults >= 60 with complete 3-domain zero-ceiling cognition composite",
+      "n_participants": 2934
+    },
+    {
+      "step_id": "09f_cfq_dsst_and_pax_4d16h",
+      "description": "  Arm C (24h Circadian -> Zero-Ceiling Cognition): DSST + primary valid 4d16h PAX",
+      "n_participants": 2541
+    },
+    {
+      "step_id": "09g_cfq_3domain_pax_4d16h_phq9",
+      "description": "  Complete 3-domain cognition + primary valid 4d16h PAX + complete PHQ-9",
+      "n_participants": 2438
+    },
+    {
+      "step_id": "10_triple_bridge_snfl_cfq_dsst",
+      "description": "Arm D (2013\u20132014 Ages 60\u201375 Triple Bridge): Measured sNfL + valid DSST",
+      "n_participants": 506
+    },
+    {
+      "step_id": "10a_triple_bridge_snfl_cfq_pax_4d16h",
+      "description": "  Triple Cross-Scale Bridge: Measured sNfL + valid DSST + primary valid 4d16h PAX",
+      "n_participants": 419
+    },
+    {
+      "step_id": "10b_triple_bridge_snfl_3dom_pax_phq9",
+      "description": "  Quadruple Complete Bridge: Measured sNfL + complete 3-domain cognition + valid 4d16h PAX + PHQ-9",
+      "n_participants": 410
+    }
+  ]
+}

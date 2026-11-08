@@ -1,0 +1,34 @@
+Characteristic,All_CHARLS_W1_W5_Union,Primary_Coupled_SDE_ge2Waves,Paired_Venous_Blood_2011_2015
+"Participants, N","25,873","20,928","7,648"
+"Waves interviewed (1–5), mean (SD)",3.73 (1.34),4.15 (1.00),4.75 (0.57)
+"Baseline age, years, mean (SD)",56.57 (10.55),55.70 (9.63),58.20 (9.10)
+"Female, n (%)","13,386 (51.8%)","10,929 (52.2%)","4,180 (54.7%)"
+"Rural village residence, n (%)","14,366 (55.8%)","12,334 (58.9%)","5,068 (66.3%)"
+"Agricultural/rural hukou, n (%)","18,969 (74.3%)","15,968 (76.7%)","6,414 (83.9%)"
+"Illiterate / no formal schooling, n (%)","6,289 (24.3%)","4,803 (23.0%)","2,209 (28.9%)"
+"Low education (<= elementary school), n (%)","17,655 (68.3%)","14,318 (68.4%)","5,391 (70.5%)"
+"Unmarried / widowed / separated, n (%)","2,954 (11.4%)","1,990 (9.5%)",829 (10.8%)
+"Current smoker, n (%)","7,660 (29.9%)","6,348 (30.3%)","2,289 (29.9%)"
+"Alcohol consumption (past year), n (%)","9,043 (35.2%)","7,446 (35.6%)","2,495 (32.6%)"
+"Died during 9-year follow-up (IPCW exit), n (%)","2,842 (11.0%)","1,407 (6.7%)",607 (7.9%)
+"Episodic memory (tr20, 0–20), mean (SD)",7.32 (3.58),7.41 (3.48),7.01 (3.35)
+"Immediate word recall (0–10), mean (SD)",4.05 (1.80),4.13 (1.74),3.97 (1.68)
+"Delayed word recall (0–10), mean (SD)",3.24 (2.10),3.27 (2.04),3.03 (1.95)
+"Serial 7s working memory (0–5), mean (SD)",3.56 (1.64),3.58 (1.62),3.41 (1.69)
+"Date orientation (0–4), mean (SD)",3.06 (1.12),3.09 (1.09),2.94 (1.13)
+"Figure drawing intact (0–1), n (%)","16,219 (66.1%)","14,295 (68.3%)","4,798 (62.9%)"
+"Global cognition composite (0–30), mean (SD)",15.09 (4.93),15.09 (4.86),14.37 (4.81)
+"CES-D10 depressive score (0–30), median [IQR]","7.00 [3.00, 12.00]","7.00 [3.00, 12.00]","7.00 [4.00, 12.00]"
+"Nighttime sleep duration, hours, mean (SD)",6.42 (1.84),6.42 (1.80),6.36 (1.88)
+"Optimal sleep (6.0–8.5 h), n (%)","16,031 (63.7%)","13,512 (64.6%)","4,738 (62.0%)"
+"Poor vision, n (%)","7,784 (31.0%)","6,475 (30.9%)","2,806 (36.7%)"
+"Poor hearing, n (%)","3,125 (12.3%)","2,252 (10.8%)","1,135 (14.8%)"
+"Dual sensory impairment, n (%)","1,827 (7.3%)","1,347 (6.4%)",688 (9.0%)
+"Social activity participation, n (%)","12,511 (49.5%)","10,573 (50.5%)","3,588 (47.0%)"
+"Internet / digital engagement, n (%)","1,921 (7.6%)","1,293 (6.2%)",136 (1.8%)
+"Hypertension history, n (%)","6,474 (25.5%)","5,142 (24.6%)","2,065 (27.0%)"
+"Diabetes history, n (%)","1,760 (7.0%)","1,391 (6.7%)",489 (6.4%)
+"Heart disease history, n (%)","3,056 (12.1%)","2,451 (11.7%)",959 (12.5%)
+"Stroke history, n (%)",715 (2.8%),488 (2.3%),191 (2.5%)
+"Baseline hs-CRP (2011), mg/L, median [IQR]","1.11 [0.60, 2.30]","1.10 [0.60, 2.27]","1.01 [0.54, 2.10]"
+"Baseline HbA1c (2011), %, mean (SD)",5.48 (0.92),5.48 (0.91),5.27 (0.82)

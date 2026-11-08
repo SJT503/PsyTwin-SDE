@@ -1,0 +1,31 @@
+Characteristic,ArmA_Adults_ValidPAX,ArmB_sNfL_BiologicalMediation,ArmC_Older60_3DomainCognition_DSST,ArmD_TripleBridge_sNfL_DSST_PAX
+"Sample size, N","8,148","2,071","3,014",419
+"Age, years, mean (SD)",50.59 (17.49),46.88 (15.36),69.49 (6.78),66.61 (4.42)
+"Female, n (%)","4,303 (52.8%)","1,081 (52.2%)","1,545 (51.3%)",218 (52.0%)
+"Low education (< high school), n (%)","1,806 (22.2%)",451 (21.8%),774 (25.7%),102 (24.4%)
+"Income-to-poverty ratio (PIR), mean (SD)",2.47 (1.65),2.49 (1.67),2.59 (1.60),2.57 (1.60)
+"BMI, kg/m^2, mean (SD)",29.18 (7.08),29.25 (7.38),29.03 (6.34),29.61 (6.85)
+"Systolic BP, mmHg, mean (SD)",123.99 (18.46),121.44 (17.29),133.22 (19.44),130.62 (19.32)
+"HbA1c, %, mean (SD)",5.80 (1.13),5.71 (1.09),6.08 (1.11),6.10 (1.20)
+"Total cholesterol, mg/dL, mean (SD)",191.54 (42.18),189.24 (40.81),191.33 (43.28),190.30 (43.36)
+"WBC count, 10^9/L, mean (SD)",7.16 (2.33),7.01 (2.24),6.97 (2.45),6.80 (2.06)
+"Neutrophil-to-lymphocyte ratio (NLR), median [IQR]","2.00 [1.48, 2.65]","1.88 [1.44, 2.47]","2.08 [1.53, 2.88]","1.96 [1.50, 2.60]"
+"Diagnosed hypertension, n (%)","3,183 (39.1%)",734 (35.5%),"1,885 (62.7%)",263 (62.9%)
+"Antihypertensive medication use, n (%)","2,436 (29.9%)",526 (25.4%),"1,675 (55.8%)",233 (56.0%)
+"Diagnosed diabetes, n (%)","1,125 (13.8%)",221 (10.7%),707 (23.5%),91 (21.7%)
+"History of cardiovascular disease/stroke, n (%)",885 (10.9%),155 (7.5%),624 (20.7%),86 (20.5%)
+"Current smoker, n (%)","1,574 (19.3%)",455 (22.0%),380 (12.6%),59 (14.1%)
+"Alcohol (>=12 drinks/year), n (%)","5,444 (71.8%)","1,416 (74.2%)","2,003 (67.8%)",290 (70.2%)
+"Moderate-to-vigorous physical activity, n (%)","5,321 (65.3%)","1,443 (69.7%)","1,713 (56.8%)",260 (62.1%)
+"Valid 16h actigraphy days, mean (SD)",6.25 (1.00),5.38 (1.99),6.15 (1.50),6.32 (0.86)
+"24h Relative Amplitude (RA), mean (SD)",0.81 (0.13),0.82 (0.13),0.81 (0.12),0.82 (0.12)
+"Interdaily Stability (IS), mean (SD)",0.56 (0.14),0.57 (0.15),0.59 (0.13),0.59 (0.13)
+"Intradaily Variability (IV), mean (SD)",0.70 (0.22),0.70 (0.23),0.75 (0.24),0.73 (0.21)
+"Photic-motor coupling r, mean (SD)",0.70 (0.12),0.69 (0.13),0.71 (0.12),0.72 (0.11)
+"Serum sNfL, pg/mL, median [IQR]","12.50 [8.47, 19.82]","12.30 [8.20, 19.10]","19.05 [14.43, 27.90]","19.30 [14.45, 28.25]"
+"PHQ-9 depressive score (0–27), median [IQR]","2.00 [0.00, 5.00]","2.00 [0.00, 4.00]","2.00 [0.00, 4.00]","2.00 [0.00, 6.00]"
+"Moderate-to-severe depression (PHQ-9 >= 10), n (%)",718 (9.6%),179 (9.4%),271 (9.2%),54 (13.1%)
+"DSST processing speed, mean (SD)",45.65 (17.33),47.80 (17.70),45.46 (17.44),48.03 (17.80)
+"Animal Fluency score, mean (SD)",16.40 (5.52),17.15 (5.73),16.56 (5.48),17.43 (5.67)
+"CERAD 3-trial immediate recall (0–30), mean (SD)",18.57 (4.95),20.35 (4.40),18.84 (4.73),20.59 (4.37)
+"CERAD delayed recall (0–10), mean (SD)",5.79 (2.40),6.58 (2.19),5.89 (2.34),6.64 (2.23)

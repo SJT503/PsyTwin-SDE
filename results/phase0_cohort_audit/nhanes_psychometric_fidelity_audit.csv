@@ -1,0 +1,9 @@
+scale,direction,n_valid,theoretical_min,theoretical_max,empirical_min,empirical_max,floor_n,floor_pct,ceiling_n,ceiling_pct,mean,sd,median,iqr,q25,q75,skewness,excess_kurtosis
+NHANES_DSST_ProcessingSpeed,higher_better,3014,0.0,133.0,0.0,105.0,4,0.133,0,0.0,45.461,17.439,45.0,25.0,33.0,58.0,0.017,-0.419
+NHANES_AnimalFluency_Executive,higher_better,3110,0.0,,1.0,40.0,0,0.0,0,0.0,16.321,5.552,16.0,8.0,12.0,20.0,0.492,0.427
+NHANES_CERAD_ImmediateLearning_3TrialSum,higher_better,3131,0.0,30.0,0.0,30.0,12,0.383,3,0.096,18.539,4.938,19.0,7.0,15.0,22.0,-0.618,0.517
+NHANES_CERAD_DelayedRecall,higher_better,3126,0.0,10.0,0.0,10.0,116,3.711,131,4.191,5.774,2.411,6.0,4.0,4.0,8.0,-0.438,-0.257
+NHANES_CERAD_Total_40,higher_better,3123,0.0,40.0,0.0,40.0,4,0.128,1,0.032,24.334,6.903,25.0,9.0,20.0,29.0,-0.482,0.008
+NHANES_Global_3Domain_Cognition_Z,higher_better,2934,,,-2.245,2.762,1,0.034,0,0.0,0.039,0.772,0.039,1.08,-0.5,0.58,0.023,-0.211
+NHANES_PHQ9_Adults20Plus,higher_worse,9693,0.0,27.0,0.0,27.0,3295,33.994,8,0.083,3.255,4.45,2.0,4.0,0.0,4.0,2.066,4.673
+NHANES_PHQ9_Older60Plus,higher_worse,3187,0.0,27.0,0.0,27.0,1113,34.923,2,0.063,3.23,4.362,2.0,4.0,0.0,4.0,1.954,4.029

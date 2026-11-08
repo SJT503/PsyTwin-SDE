@@ -1,0 +1,28 @@
+{
+  "script": "scripts/phase3_pillar3_gcomp_gamlss_fairness.py",
+  "seed": 20270507,
+  "elapsed_seconds": 308.77,
+  "n_full_cohort": 20928,
+  "n_paired_blood_sde": 7438,
+  "n_cluster_bootstrap": 500,
+  "natural_course_calibration": [
+    {
+      "cohort": "CHARLS_Full_N20928",
+      "n_eval": 20928,
+      "annual_age_slope_cog_SD_per_yr": 0.03,
+      "obs_eta_cog_w5_mean": 0.02075,
+      "nat_course_eta_cog_w5_mean": 0.00775,
+      "obs_eta_dep_w5_mean": -0.0437,
+      "nat_course_eta_dep_w5_mean": -0.05931
+    },
+    {
+      "cohort": "CHARLS_PairedBlood_N7438",
+      "n_eval": 7438,
+      "annual_age_slope_cog_SD_per_yr": 0.03,
+      "obs_eta_cog_w5_mean": -0.10624,
+      "nat_course_eta_cog_w5_mean": -0.11308,
+      "obs_eta_dep_w5_mean": 0.06206,
+      "nat_course_eta_dep_w5_mean": 0.03209
+    }
+  ]
+}
